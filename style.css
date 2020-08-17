@@ -6,6 +6,7 @@ h1 {
 p {
     font-family: 'Courier New', Courier, monospace;
     color: #654321;
+    font-weight: bold;
 }
 
 body {
